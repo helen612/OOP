@@ -4,6 +4,7 @@ using namespace std;
 
 class doc {
 protected:
+    int test;
     string payer;
     float sum;
     char date[11];
