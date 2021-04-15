@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BNmoDaUQG+Py4nACWKfCCEdFg8JNFclFFbVYJUGoPqmY09xQ468rDxljkHNzjzkEisHaOZV9/NHR+LtzoBMdng==",
+  "success": true,
+  "projectFilePath": "D:\\study\\OOP\\laba5\\lr5A\\lr5A\\lr5A.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sycev\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\sycev\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\sycev\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\sycev\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\sycev\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\sycev\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\sycev\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

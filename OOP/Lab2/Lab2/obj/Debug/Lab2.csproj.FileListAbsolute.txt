@@ -1,0 +1,32 @@
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2Csharp\Lab2Csharp\bin\Debug\Lab2Csharp.exe.config
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2Csharp\Lab2Csharp\bin\Debug\Lab2Csharp.exe
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2Csharp\Lab2Csharp\bin\Debug\Lab2Csharp.pdb
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2Csharp\Lab2Csharp\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2Csharp\Lab2Csharp\obj\Debug\Lab2Csharp.exe
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2Csharp\Lab2Csharp\obj\Debug\Lab2Csharp.pdb
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2\Lab2\bin\Debug\Lab2Csharp.exe.config
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2\Lab2\bin\Debug\Lab2Csharp.exe
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2\Lab2\bin\Debug\Lab2Csharp.pdb
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2\Lab2\obj\Debug\Lab2Csharp.exe
+D:\University\2 курс 4 сем\О-ОТПиСВ\Lab2\Lab2\obj\Debug\Lab2Csharp.pdb
+D:\2_course\4_sem\OOTP\Lab2\Lab2\Lab2\bin\Debug\Lab2Csharp.exe.config
+D:\2_course\4_sem\OOTP\Lab2\Lab2\Lab2\bin\Debug\Lab2Csharp.exe
+D:\2_course\4_sem\OOTP\Lab2\Lab2\Lab2\bin\Debug\Lab2Csharp.pdb
+D:\2_course\4_sem\OOTP\Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\2_course\4_sem\OOTP\Lab2\Lab2\Lab2\obj\Debug\Lab2Csharp.exe
+D:\2_course\4_sem\OOTP\Lab2\Lab2\Lab2\obj\Debug\Lab2Csharp.pdb
+C:\Users\sycev\OneDrive\Рабочий стол\study\OOP\Lab2\Lab2\bin\Debug\Lab2Csharp.exe.config
+C:\Users\sycev\OneDrive\Рабочий стол\study\OOP\Lab2\Lab2\bin\Debug\Lab2Csharp.exe
+C:\Users\sycev\OneDrive\Рабочий стол\study\OOP\Lab2\Lab2\bin\Debug\Lab2Csharp.pdb
+C:\Users\sycev\OneDrive\Рабочий стол\study\OOP\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\sycev\OneDrive\Рабочий стол\study\OOP\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\sycev\OneDrive\Рабочий стол\study\OOP\Lab2\Lab2\obj\Debug\Lab2Csharp.exe
+C:\Users\sycev\OneDrive\Рабочий стол\study\OOP\Lab2\Lab2\obj\Debug\Lab2Csharp.pdb
+D:\study\OOP\Lab2\Lab2\bin\Debug\Lab2Csharp.exe.config
+D:\study\OOP\Lab2\Lab2\bin\Debug\Lab2Csharp.exe
+D:\study\OOP\Lab2\Lab2\bin\Debug\Lab2Csharp.pdb
+D:\study\OOP\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\study\OOP\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\study\OOP\Lab2\Lab2\obj\Debug\Lab2Csharp.exe
+D:\study\OOP\Lab2\Lab2\obj\Debug\Lab2Csharp.pdb

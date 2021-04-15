@@ -1,0 +1,26 @@
+D:\study\OOP\3laba\3laba\3laba\obj\Debug\netcoreapp3.1\3laba.csprojAssemblyReference.cache
+D:\study\OOP\3laba\3laba\3laba\obj\Debug\netcoreapp3.1\3laba.csproj.CoreCompileInputs.cache
+D:\study\OOP\3laba\3laba\3laba\obj\Debug\netcoreapp3.1\3laba.AssemblyInfoInputs.cache
+D:\study\OOP\3laba\3laba\3laba\obj\Debug\netcoreapp3.1\3laba.AssemblyInfo.cs
+D:\study\OOP\3laba\3laba\3laba\bin\Debug\netcoreapp3.1\3laba.exe
+D:\study\OOP\3laba\3laba\3laba\bin\Debug\netcoreapp3.1\3laba.deps.json
+D:\study\OOP\3laba\3laba\3laba\bin\Debug\netcoreapp3.1\3laba.runtimeconfig.json
+D:\study\OOP\3laba\3laba\3laba\bin\Debug\netcoreapp3.1\3laba.runtimeconfig.dev.json
+D:\study\OOP\3laba\3laba\3laba\bin\Debug\netcoreapp3.1\3laba.dll
+D:\study\OOP\3laba\3laba\3laba\bin\Debug\netcoreapp3.1\3laba.pdb
+D:\study\OOP\3laba\3laba\3laba\obj\Debug\netcoreapp3.1\3laba.dll
+D:\study\OOP\3laba\3laba\3laba\obj\Debug\netcoreapp3.1\3laba.pdb
+D:\study\OOP\3laba\3laba\3laba\obj\Debug\netcoreapp3.1\3laba.genruntimeconfig.cache
+D:\study\OOP\3laba\3laba — копия\3laba\bin\Debug\netcoreapp3.1\3laba.exe
+D:\study\OOP\3laba\3laba — копия\3laba\bin\Debug\netcoreapp3.1\3laba.deps.json
+D:\study\OOP\3laba\3laba — копия\3laba\bin\Debug\netcoreapp3.1\3laba.runtimeconfig.json
+D:\study\OOP\3laba\3laba — копия\3laba\bin\Debug\netcoreapp3.1\3laba.runtimeconfig.dev.json
+D:\study\OOP\3laba\3laba — копия\3laba\bin\Debug\netcoreapp3.1\3laba.dll
+D:\study\OOP\3laba\3laba — копия\3laba\bin\Debug\netcoreapp3.1\3laba.pdb
+D:\study\OOP\3laba\3laba — копия\3laba\obj\Debug\netcoreapp3.1\3laba.csprojAssemblyReference.cache
+D:\study\OOP\3laba\3laba — копия\3laba\obj\Debug\netcoreapp3.1\3laba.csproj.CoreCompileInputs.cache
+D:\study\OOP\3laba\3laba — копия\3laba\obj\Debug\netcoreapp3.1\3laba.AssemblyInfoInputs.cache
+D:\study\OOP\3laba\3laba — копия\3laba\obj\Debug\netcoreapp3.1\3laba.AssemblyInfo.cs
+D:\study\OOP\3laba\3laba — копия\3laba\obj\Debug\netcoreapp3.1\3laba.dll
+D:\study\OOP\3laba\3laba — копия\3laba\obj\Debug\netcoreapp3.1\3laba.pdb
+D:\study\OOP\3laba\3laba — копия\3laba\obj\Debug\netcoreapp3.1\3laba.genruntimeconfig.cache

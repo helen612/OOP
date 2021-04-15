@@ -1,0 +1,6 @@
+D:\study\OOP\Lab2\Lab2\bin\Release\Lab2Csharp.exe.config
+D:\study\OOP\Lab2\Lab2\bin\Release\Lab2Csharp.exe
+D:\study\OOP\Lab2\Lab2\bin\Release\Lab2Csharp.pdb
+D:\study\OOP\Lab2\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+D:\study\OOP\Lab2\Lab2\obj\Release\Lab2Csharp.exe
+D:\study\OOP\Lab2\Lab2\obj\Release\Lab2Csharp.pdb
